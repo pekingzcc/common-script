@@ -1,2 +1,2 @@
 # common-script
-Just accumate some common scripts
+Just sum up some common useful scripts
